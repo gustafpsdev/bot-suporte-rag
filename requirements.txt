@@ -1,0 +1,7 @@
+# Dependências do protótipo
+python-dotenv>=1.0
+scikit-learn>=1.3
+anthropic>=0.40
+
+# Opcional — para o upgrade de embeddings semânticos (ver README):
+# sentence-transformers>=3.0
